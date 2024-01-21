@@ -1,4 +1,4 @@
-# Practicas de Java SE & Java EE
+# Prácticas de Java SE & Java EE
 
 ![enter image description here](https://tipsmake.com/data/images/how-to-open-run-the-jar-file-on-a-windows-computer-picture-1-z0RrYuWio.jpg)
 
